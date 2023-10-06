@@ -4,12 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <title>中興大學鵝訊實況🦆</title>
-    <link rel="icon" type="image/png" href="./goose.png">
+    <link rel="icon" type="image/png" href="./assets/images/goose.png">
     <!-- 引入Bootstrap CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <!-- 引入FontAwesome -->
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="./assets/css/styles.css">
 
     <!-- vanta -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
@@ -54,7 +54,7 @@
         </nav>
 
         <div class="map">
-            <img src="realMap2.png" alt="中興湖地圖" class="img-fluid rounded">
+            <img src="./assets/images/realMap2.png" alt="中興湖地圖" class="img-fluid rounded">
             <div class="coordinates"></div>
             <div class="goose-container"></div>
         </div>
@@ -88,7 +88,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-    <script src="scripts.js"></script>
+    <script src="./assets/js/scripts.js"></script>
 
 
 </body>

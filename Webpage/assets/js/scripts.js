@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function() {
     gooseIcon.className = 'goose-icon';
 
     // 根據種類設定背景圖片
-    const imageUrl = data.type === 'goose' ? 'goose.png' : 'skygoose.png';
+    const imageUrl = data.type === 'goose' ? './assets/images/goose.png' : './assets/images/skygoose.png';
     gooseIcon.style.backgroundImage = `url('${imageUrl}')`;
 
     gooseIcon.style.left = `${data.x}%`;
