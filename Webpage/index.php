@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
+<!--  -->
 
 <head>
     <meta charset="UTF-8">
@@ -40,19 +41,9 @@
 
     <!-- 內容 -->
     <div class="container-fluid header p-0">
-        <nav class="navbar">
-            <div class="navbar-left">
-                中興大學鵝訊實況
-            </div>
-            <div class="navbar-right">
-                <a href="./index.php">首頁</a>
-                <a href="#link2">連結2</a>
-                <a href="#link3">連結3</a>
-                <a href="#link4">連結4</a>
-                <a href="#link5">連結5</a>
-            </div>
-        </nav>
-
+        <script src="./assets/js/nav.js"></script>
+    </div>
+    <div class="header p-0">
         <div class="map">
             <img src="./assets/images/realMap2.png" alt="中興湖地圖" class="img-fluid rounded">
             <div class="coordinates"></div>
@@ -61,12 +52,13 @@
         <div class="youtube">
             <!-- 嵌入YouTube直播 -->
             <iframe
-                src="https://www.youtube.com/embed/jfKfPfyJRdk?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=0&autoplay=1"
+                src="https://www.youtube.com/embed/AJmjZw7D3UU?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=0&autoplay=1"
                 frameborder="0" allowfullscreen></iframe>
 
             <!-- Auto play script
-           <iframe  src="https://www.youtube.com/embed/D9S7er_nCNs?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=0&autoplay=1"
-                width="10" height="10"  frameborder="0" allowfullscreen></iframe>
+           <iframe AJmjZw7D3UU
+                src="https://www.youtube.com/embed/jfKfPfyJRdk?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=0&autoplay=1"
+                frameborder="0" allowfullscreen></iframe>
 
             -->
         </div>
@@ -77,7 +69,7 @@
             <button class="btn tab-item"><i class="fas fa-one"></i> 鵝況</button>
             <button class="btn tab-item"><i class="fas fa-two"></i> 圖示說明</button>
             <button class="btn tab-item"><i class="fas fa-three"></i> 呱呱呱</button>
-            
+
         </div>
         <div class="info ">
             <!-- 資訊內容 -->

@@ -58,6 +58,10 @@ body {
 
 /* Mid dashboard */
 
+.dashboard{
+  display:block
+}
+
 /* Map */
 .map {
   width: 40%;
@@ -111,7 +115,7 @@ body {
 
 /*Footer*/
 .footer {
-  border: 1px solid red;
+  /*border: 1px solid red;*/
   background: #b9e7fa ;
   position: fixed;
   bottom: 0;
@@ -122,7 +126,7 @@ body {
 }
 
 .tabs {
-  border: 1px solid blue;
+  /*border: 1px solid blue;*/
   width: 25%;
   height: 100%;
   display: flex;
@@ -145,7 +149,7 @@ body {
 
 
 .info {
-  border: 1px solid rgb(94, 255, 0);
+  /*border: 1px solid rgb(94, 255, 0);*/
   width: 75%;
   display: flex;
   align-items: center;
