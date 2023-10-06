@@ -40,18 +40,19 @@ document.addEventListener("DOMContentLoaded", function() {
 
     gooseContainer.appendChild(gooseIcon);
 
-    // 5秒後移除小圖
+    // 10秒後移除小圖
     setTimeout(() => {
       gooseContainer.removeChild(gooseIcon);
-    }, 5000);
+    }, 10000);
   }
 
   // 模擬接收API信息
   function simulateApiData() {
     // 生成隨機座標和名稱
-    const randomX = Math.floor(Math.random() * 101);
-    const randomY = Math.floor(Math.random() * 101);
+    const randomX = Math.floor(Math.random() * 61) + 20; // 生成20到80之間的隨機X座標
+    const randomY = Math.floor(Math.random() * 61) + 20; // 生成20到80之間的隨機Y座標
     const randomName = `Name_${Math.floor(Math.random() * 1000)}`;
+    
 
     // 隨機選擇鵝或天鵝
     const randomType = Math.random() > 0.1 ? 'goose' : 'skygoose';
@@ -69,5 +70,5 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 
   // 每2秒模擬接收一次API信息
-  setInterval(simulateApiData, 200);
+  setInterval(simulateApiData, 900);
 });
