@@ -1,6 +1,25 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
-<!--  -->
+<!-- 
+                                                        _...--.
+                                        _____......----'     .'
+                                  _..-''                   .'
+                                .'                       ./
+                        _.--._.'                       .' |
+                     .-'                           .-.'  /
+                   .'   _.-.                     .  \   '
+                 .'  .'   .'    _    .-.        / `./  :
+               .'  .'   .'  .--' `.  |  \  |`. |     .'
+            _.'  .'   .' `.'       `-'   \ / |.'   .'
+         _.'  .-'   .'     `-.            `      .'
+       .'   .'    .'          `-.._ _ _ _ .-.    :
+      /    /o _.-'               .--'   .'   \   |
+    .'-.__..-'                  /..    .`    / .'
+  .'   . '                       /.'/.'     /  |
+ `---'                                   _.'   '
+                                       /.'    .'
+                                        /.'/.'
+ -->
 
 <head>
     <meta charset="UTF-8">
@@ -11,6 +30,10 @@
     <!-- 引入FontAwesome -->
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <link rel="stylesheet" href="./assets/css/styles.css">
+    <!-- google font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500&display=swap" rel="stylesheet">
 
     <!-- vanta -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
@@ -20,24 +43,6 @@
 
 <body>
     <!-- Script -->
-
-    <!--
-    <script>
-        VANTA.NET({
-            el: ".footer",
-            mouseControls: true,
-            touchControls: true,
-            gyroControls: false,
-            minHeight: 200.00,
-            minWidth: 200.00,
-            scale: 1.00,
-            scaleMobile: 1.00,
-            color: 0xaaa2a3,
-            backgroundColor: 0xeeeef2,
-            showDots: false
-        })
-    </script>
-    -->
 
     <!-- 內容 -->
     <div class="container-fluid header p-0">
@@ -84,6 +89,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script src="./assets/js/scripts.js"></script>
 
+    <!-- Script -->
 
 </body>
 
