@@ -26,28 +26,39 @@
         <script src="./assets/js/nav.js"></script>
     </div>
     <!-- 專案簡介部分 -->
-    <div class="project-intro">
-        <section id="project-introduction">
-            <h1>興大生態</h1>
-            <p>
-                在中興大學裡，鵝是每位興大學生必須認識的校園動物。無論是趕忙去上課的途中，亦或是踏著輕快的步伐在校園中漫步，只要經過中興湖幾乎都可以看到鵝在樹下乘涼或在湖中快樂的游泳。
-            </p>
-            <p>
-                在中興湖畔常見的鵝是家鵝，家鵝是鴨子和天鵝的近親，屬於雁形目。野生的鵝會飛，甚至透過飛行橫跨大陸，但多數被飼養的家鵝已經失去飛行能力。
-            </p>
-            <p>
-                它們常常聚在一起生活，其中最大一隻白鵝叫做「瓜瓜」，它曾經是家養鵝，後來才放養至中興湖。
-            </p>
-        </section>
-        <hr>
-        <section id="project-introduction">
-            <h1>中興湖</h1>
-            <p>
-                中興湖是中興學子以工讀或義務的方式努力挖出的一座湖，以中國大陸「秋海棠」的形狀打造，旁邊陪襯著台灣和海南島形狀的小水池，中央的小島則利用鵝卵石被堆砌稱作蘭州島，島上有白鷺與夜鷺棲息。湖畔遍植花木，景色優美，生態豐富有趣。三十多年來，中興湖已成為中興人夢想和創意的泉源。
+    <div class="page-container">
+        <div class="project-intro">
+            <section id="project-introduction">
+                <h1>興大生態</h1>
+                <p>
+                    在中興大學裡，鵝是每位興大學生必須認識的校園動物。無論是趕忙去上課的途中，亦或是踏著輕快的步伐在校園中漫步，只要經過中興湖幾乎都可以看到鵝在樹下乘涼或在湖中快樂的游泳。
+                </p>
+                <p>
+                    在中興湖畔常見的鵝是家鵝，家鵝是鴨子和天鵝的近親，屬於雁形目。野生的鵝會飛，甚至透過飛行橫跨大陸，但多數被飼養的家鵝已經失去飛行能力。
+                </p>
+                <p>
+                    它們常常聚在一起生活，其中最大一隻白鵝叫做「瓜瓜」，它曾經是家養鵝，後來才放養至中興湖。
+                </p>
+            </section>
+            <hr>
+            <section id="project-introduction">
+                <h1>中興湖</h1>
+                <p>
+                    中興湖是中興學子以工讀或義務的方式努力挖出的一座湖，以中國大陸「秋海棠」的形狀打造，旁邊陪襯著台灣和海南島形狀的小水池，中央的小島則利用鵝卵石被堆砌稱作蘭州島，島上有白鷺與夜鷺棲息。湖畔遍植花木，景色優美，生態豐富有趣。三十多年來，中興湖已成為中興人夢想和創意的泉源。
 
-            </p>
-        </section>
+                </p>
+            </section>
 
+        </div>
+        <div class="contexFooter">
+            <div class="is-center">興程式競賽🦆中興大學鵝訊實況</div>
+            <!--
+        <div class="non-import-page">
+            <a href="https://aggielab.github.io/">中興大學資訊安全實驗室</a>
+            <a href="https://site.nchuit.cc/">中興大學資訊社</a>
+        </div>
+        -->
+        </div>
     </div>
     <!-- Script -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>

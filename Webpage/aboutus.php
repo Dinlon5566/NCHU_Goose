@@ -26,55 +26,67 @@
         <script src="./assets/js/nav.js"></script>
     </div>
     <!-- 專案簡介部分 -->
+    <div class="page-container">
+        <div class="project-intro">
+            <section id="project-introduction">
+                <h1>關於我們</h1>
+                <p>
+                    我是誰? 我從哪裡來? 我要到哪裡去?
+                </p>
+            </section>
+            <hr>
+            <section id="project-introduction">
+                <h1>關於我們</h1>
+                <p>
+                    我是誰? 我從哪裡來? 我要到哪裡去?
+                </p>
+            </section>
+            <hr>
+            <section id="project-introduction">
+                <h1>關於我們</h1>
+                <p>
+                    我是誰? 我從哪裡來? 我要到哪裡去?
+                </p>
+            </section>
+            <hr>
+            <section id="project-introduction">
+                <h1>關於我們</h1>
+                <p>
+                    我是誰? 我從哪裡來? 我要到哪裡去?
+                </p>
+            </section>
+            <hr>
+            <section id="project-introduction">
+                <h1>test</h1>
+                <p>
 
-    <div class="project-intro">
-        <section id="project-introduction">
-            <h1>關於我們</h1>
-            <p>
-                我是誰? 我從哪裡來? 我要到哪裡去?
-            </p>
-        </section>
-        <hr>
-        <section id="project-introduction">
-            <h1>關於我們</h1>
-            <p>
-                我是誰? 我從哪裡來? 我要到哪裡去?
-            </p>
-        </section>
-        <hr>
-        <section id="project-introduction">
-            <h1>關於我們</h1>
-            <p>
-                我是誰? 我從哪裡來? 我要到哪裡去?
-            </p>
-        </section>
-        <hr>
-        <section id="project-introduction">
-            <h1>關於我們</h1>
-            <p>
-                我是誰? 我從哪裡來? 我要到哪裡去?
-            </p>
-        </section>
-        <hr>
-        <section id="project-introduction">
-            <h1>test</h1>
-            <p>
+                    我看看如果很長的話會有甚麼效果
+                </p>
+                <hr>
+                <hr>
+                <hr>
+                <hr>
+                <hr>
+                <hr>
+                <hr>
+                <hr>
+                <hr>
+                <hr>
+                <hr>
+                <p>天啊我不想再碰網頁設計了</p>
+            </section>
 
-                我看看如果很長的話會有甚麼效果
-            </p>
-            <hr>
-            <hr>
-            <hr>
-            <hr>
-            <hr>
-            <hr>
-            <hr>
-            <hr>
-            <hr>
-            <hr>
-            <hr>
-            <p>大概是這樣</p>
-        </section>
+
+        </div>
+        <div class="contexFooter">
+            <div class="is-center">興程式競賽🦆中興大學鵝訊實況</div>
+            <!--
+        <div class="non-import-page">
+            <a href="https://aggielab.github.io/">中興大學資訊安全實驗室</a>
+            <a href="https://site.nchuit.cc/">中興大學資訊社</a>
+        </div>
+        -->
+        </div>
     </div>
     <!-- Script vanta-WAVES -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>

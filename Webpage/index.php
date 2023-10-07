@@ -45,30 +45,33 @@
     <!-- Script -->
 
     <!-- 內容 -->
-    <div class="container-fluid header p-0">
-        <script src="./assets/js/nav.js"></script>
-    </div>
-    <div class="header p-0">
-        <div class="map">
-            <img src="./assets/images/realMap2.png" alt="中興湖地圖" class="img-fluid rounded">
-            <div class="coordinates"></div>
-            <div class="goose-container"></div>
+    <div class="indexNav">
+        <div class="container-fluid header p-0">
+            <script src="./assets/js/nav.js"></script>
         </div>
-        <div class="youtube">
-            <!-- 嵌入YouTube直播 -->
-            <iframe
-                src="https://www.youtube.com/embed/AJmjZw7D3UU?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=0&autoplay=1"
-                frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="midInfo">
+        <div class="header p-0">
+            <div class="map">
+                <img src="./assets/images/realMap2.png" alt="中興湖地圖" class="img-fluid rounded">
+                <div class="coordinates"></div>
+                <div class="goose-container"></div>
+            </div>
+            <div class="youtube">
+                <!-- 嵌入YouTube直播 -->
+                <iframe
+                    src="https://www.youtube.com/embed/AJmjZw7D3UU?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=0&autoplay=1"
+                    frameborder="0" allowfullscreen></iframe>
 
-            <!-- Auto play script
+                <!-- Auto play script
            <iframe AJmjZw7D3UU
                 src="https://www.youtube.com/embed/jfKfPfyJRdk?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=0&autoplay=1"
                 frameborder="0" allowfullscreen></iframe>
 
             -->
+            </div>
         </div>
     </div>
-
     <div class="footer rounded-top">
         <div class="tabs">
             <button class="btn tab-item"><i class="fas fa-one"></i> 鵝況</button>
