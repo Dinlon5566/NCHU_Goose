@@ -335,8 +335,21 @@ img {
     .page-container{
         padding-bottom: 5vh;
 
-        padding: 5vh 0 5vh 0;
+        padding: 0 0 5vh 0;
 
+    }
+    .project-intro {
+        padding-top: 0vh !important;
+        flex-grow: 1;
+        margin: 0 auto;
+        top: 10px;
+        width: 75%;
+        border-radius: 3px;
+        background: #fff;
+        box-shadow: 0 4px 8px 6px rgba(7, 17, 27, .06);
+        transition: all .3s;
+        font-size: large;
+        padding: 20px 44px 44px;
     }
     .contexFooter{
         font-size: 1.5em;

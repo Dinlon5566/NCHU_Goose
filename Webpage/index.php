@@ -79,10 +79,10 @@
             <button class="btn tab-item"><i class="fas fa-three"></i> 呱呱呱</button>
 
         </div>
-        <div class="info ">
+        <div class="info">
             <!-- 資訊內容 -->
             <h1>呱</h1>
-            <p>旁邊那些顏色框框是用來測試的，之後會刪掉</p>
+            <p>透過左側按鍵來選擇功能!</p>
         </div>
     </div>
 
@@ -93,7 +93,7 @@
     <script src="./assets/js/scripts.js"></script>
 
     <!-- Script -->
-
+    <audio id="duckSound" src="./assets/audio/duck.mp3" preload="auto"></audio>
 </body>
 
 </html>

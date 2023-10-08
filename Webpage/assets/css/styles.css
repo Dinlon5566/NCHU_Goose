@@ -221,7 +221,6 @@ body {
 
   body {
     font-size: 1.5em;
-    /* 放大到2倍 */
   }
 
   p,
@@ -231,7 +230,6 @@ body {
   .info h1,
   .info p {
     font-size: 2em;
-    /* 放大到2倍 */
   }
 
   h1 {
