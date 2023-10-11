@@ -1,4 +1,16 @@
-/* This css file comes from dinlon5566.com */
+/* This css file comes from dinlon5566.com 
+    171-colorSet1
+1. 247-250-253
+2. 127-198-225
+3. 246-175-83
+4. 39-112-164
+5. 0-60-89
+6. 83-164-211
+7. 0-40-56
+8. 174-181-189
+9. 82-137-161
+
+*/
 * {
     box-sizing: border-box;
     margin: 0;
@@ -17,7 +29,7 @@ html {
 body {
     position: relative;
     min-height: 100%;
-    background: #eee;
+    background: rgb(247, 250, 253);
     color: #4c4948;
     margin: 0;
 }
@@ -38,7 +50,7 @@ hr {
     position: relative;
     margin: 2rem auto;
     width: calc(100% - 4px);
-    border: 2px dashed #f8b5f7;
+    border: 2px dashed rgb(246,175,83);
     background: rgb(255, 255, 255);
 }
 
@@ -62,7 +74,7 @@ hr {
     top: 10px;
     width: 75%;
     border-radius: 3px;
-    background: #fff;
+    background: rgb(247, 250, 253);
     box-shadow: 0 4px 8px 6px rgba(7, 17, 27, .06);
     transition: all .3s;
     font-size: large;
@@ -285,12 +297,13 @@ img {
 .contexFooter {
     padding-top: 5px;
     height: 5vh;
-    color: #081E26;
-    background-color: #95c8ff;
+    color: rgb(247, 250, 253);
+    background-color: rgb(83,164,211);
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
 .contexFooter a {
     color: #002e4d;
     margin-left: 5px;
@@ -298,6 +311,7 @@ img {
     justify-content: right;
     text-decoration: none;
 }
+
 /* 桌面版設定 */
 @media (min-width: 1024px) {
     .contexFooter {
@@ -330,14 +344,15 @@ img {
 
     h1 {
         font-size: 3em;
-      }
-    
-    .page-container{
+    }
+
+    .page-container {
         padding-bottom: 5vh;
 
         padding: 0 0 5vh 0;
 
     }
+
     .project-intro {
         padding-top: 0vh !important;
         flex-grow: 1;
@@ -351,7 +366,8 @@ img {
         font-size: large;
         padding: 20px 44px 44px;
     }
-    .contexFooter{
+
+    .contexFooter {
         font-size: 1.5em;
     }
 }

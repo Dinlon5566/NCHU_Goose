@@ -31,50 +31,16 @@
             <section id="project-introduction">
                 <h1>關於我們</h1>
                 <p>
-                    我是誰? 我從哪裡來? 我要到哪裡去?
+                    我們來自不同科系，但都很喜歡興大湖的動物。
                 </p>
-            </section>
-            <hr>
-            <section id="project-introduction">
-                <h1>關於我們</h1>
-                <p>
-                    我是誰? 我從哪裡來? 我要到哪裡去?
-                </p>
-            </section>
-            <hr>
-            <section id="project-introduction">
-                <h1>關於我們</h1>
-                <p>
-                    我是誰? 我從哪裡來? 我要到哪裡去?
-                </p>
-            </section>
-            <hr>
-            <section id="project-introduction">
-                <h1>關於我們</h1>
-                <p>
-                    我是誰? 我從哪裡來? 我要到哪裡去?
-                </p>
-            </section>
-            <hr>
-            <section id="project-introduction">
-                <h1>test</h1>
-                <p>
+                <h2>聯絡我們</h2>
 
-                    我看看如果很長的話會有甚麼效果
+                Ting <br>
+                <p>
+                    admin@dinlon5566.com
                 </p>
-                <hr>
-                <hr>
-                <hr>
-                <hr>
-                <hr>
-                <hr>
-                <hr>
-                <hr>
-                <hr>
-                <hr>
-                <hr>
-                <p>天啊我不想再碰網頁設計了</p>
             </section>
+
 
 
         </div>

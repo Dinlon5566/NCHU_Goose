@@ -82,7 +82,7 @@
             minWidth: 200.00,
             scale: 1.00,
             scaleMobile: 1.00,
-            color: 0x357aae,
+            color: 0x003C59,
             shininess: 34.00,
             waveHeight: 14.50,
             waveSpeed: 0.80,

@@ -27,7 +27,7 @@ body {
 
 /* Nav*/
 .navbar {
-  background-color: #007BFF;
+  background-color: rgb(39,112,164);
   color: white;
   height: 8vh;
   justify-content: space-between;
@@ -56,7 +56,7 @@ body {
 }
 
 .navbar-right a:hover {
-  background-color: #0056b3;
+  background-color: rgb(82,137,161);
   /* 滑鼠懸停時的背景顏色 */
   color: #ffffff;
   /* 滑鼠懸停時的文字顏色（可選） */
