@@ -10,7 +10,7 @@ $(document).ready(function () {
     console.log('Active Tab:', activeTab);
 
     //點擊呱呱呱
-    if (activeTab === '呱呱呱') {
+    if (activeTab === '電腦視覺介面') {
       const audioElement = document.getElementById('duckSound');
       audioElement.play();
       activeTab = oldTab;

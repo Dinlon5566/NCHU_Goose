@@ -60,11 +60,12 @@
             <div class="youtube">
                 <!-- 嵌入YouTube直播 -->
                 <iframe
-                    src="https://www.youtube.com/embed/AJmjZw7D3UU?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=0&autoplay=1"
+                    src="https://www.youtube.com/embed/C5bNmAg1KGY?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=0&autoplay=1"
                     frameborder="0" allowfullscreen></iframe>
 
                 <!-- Auto play script
            <iframe AJmjZw7D3UU
+           https://youtu.be/C5bNmAg1KGY?si=Sq3MRCQSgzVJLUVa
                 src="https://www.youtube.com/embed/jfKfPfyJRdk?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=0&autoplay=1"
                 frameborder="0" allowfullscreen></iframe>
 
@@ -76,7 +77,7 @@
         <div class="tabs">
             <button class="btn tab-item"><i class="fas fa-one"></i> 鵝況</button>
             <button class="btn tab-item"><i class="fas fa-two"></i> 圖示說明</button>
-            <button class="btn tab-item"><i class="fas fa-three"></i> 呱呱呱</button>
+            <button class="btn tab-item" onclick="window.location.href='http://140.120.14.108:8501/';"><i class="fas fa-three"></i> 電腦視覺介面</button>
 
         </div>
         <div class="info">
